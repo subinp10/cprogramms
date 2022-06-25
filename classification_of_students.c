@@ -5,7 +5,7 @@
 #include <stdlib.h>
 
 int main() {
-	int n,a[n],i,j=0,k=0;
+	int n=4,a[n],i,j=0,k=0;
 	printf("enter number of students\n");
 	scanf("%d",&n);
 	printf("\n enter mark of students out of 600");
